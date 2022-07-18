@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container1 {
+    position: absolute;
+    top: 143px;
+    left: 249px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid rgb(65, 0, 12); */
+    width: 70%;
+    height: 76%;
+    box-shadow:3px 5px 6px gray ;
+    
+}
+
+.container11 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    /* border: 2px solid black; */
+    background-color: red;
+    /* transform: scaleX(3.5); */
+
+    
+    transition-duration: 3s;
+    width: 600px;
+
+}
+.container11 h1{
+    font-family: 'Baloo 2', cursive;
+    margin: 7px 5px;
+}
+.container11 button{
+    margin: 10px;
+    border-radius: 34px;
+    padding:4px 30px;
+    border-color: white;
+    background-color: red;
+    outline: none;
+color: white;
+box-shadow: none;
+
+    
+}
+
+
+/* .container11:hover{
+    width: 1300px;
+} */
+
+.container12 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    /* border: 2px solid black; */
+    
+   
+
+}
+
+.container12 h1{
+    font-family: 'Baloo 2', cursive;
+    margin: 7px 5px;
+}
+.container12 .horizontal{
+display: flex;
+flex-direction:row;
+}
+.container12 input{
+padding: 3px 2px;
+margin: 3px 4px;
+border-radius: 10px;
+background-color: rgb(215, 219, 223);
+border: none;
+width: 50%;
+}
+
+
+
+
+.container12 button{
+
+margin: 10px;
+border-radius: 34px;
+padding:4px 30px;
+border-color: white;
+background-color: red;
+outline: none;
+color: white;
+box-shadow: none;
+
+}
+.container22 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    /* border: 2px solid black; */
+    background-color: red;
+    /* transform: scaleX(3.5); */
+
+    
+    transition-duration: 3s;
+    width: 600px;
+
+}
+
+.container2{
+ 
+   
+    box-shadow:3px 5px 6px gray ;
+    
+    position: absolute;
+    top: 739px;
+    left: 249px;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid rgb(65, 0, 12); */
+    width: 70%;
+    height: 76%;
+}
+.container22 h1{
+    font-family: 'Baloo 2', cursive;
+    margin: 7px 5px;
+}
+.container22 button{
+    margin: 10px;
+    border-radius: 34px;
+    padding:4px 30px;
+    border-color: white;
+    background-color: red;
+    outline: none;
+color: white;
+box-shadow: none;
+
+    
+}
+.container21 {
+
+    /* border: 2px solid black; */
+
+}
+
+.container22{
+    /* border: 2px solid black; */
+
+}
+.container21{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    /* border: 2px solid black; */
+    
+   
+
+}
+
+.container21 h1{
+    font-family: 'Baloo 2', cursive;
+    margin: 7px 5px;
+}
+.container21 .horizontal{
+display: flex;
+flex-direction:row;
+}
+.container21 input{
+padding: 3px 2px;
+margin: 3px 4px;
+border-radius: 10px;
+background-color: rgb(215, 219, 223);
+border: none;
+width: 50%;
+}
+
+
+
+
+.container21 button{
+margin: 10px;
+border-radius: 34px;
+padding:4px 30px;
+border-color: white;
+background-color: red;
+outline: none;
+color: white;
+box-shadow: none;
+}
